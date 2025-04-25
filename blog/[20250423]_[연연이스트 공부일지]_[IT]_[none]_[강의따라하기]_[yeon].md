@@ -1,7 +1,0 @@
-# 연연이스트 테스트
-
-* hello world 1
-* hello world 2
-* 헬로우
-* 가보자고
-
